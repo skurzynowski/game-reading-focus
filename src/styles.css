@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: rgb(240, 223, 223);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 2em;
+}
+
+body {
+  background: rgb(56, 54, 54);
+}
+
+.hiddenText {
+  color: transparent;
+}
+
+.correct {
+  background: green;
+}
+
+.wrong {
+  background: red;
+}
